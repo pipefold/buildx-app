@@ -2,6 +2,12 @@
 
 Front-end for BuildX, built with Next.js and [@opensystemslab/buildx-core](https://github.com/theopensystemslab/buildx-core)
 
+## Demo/tour video [(click to YouTube)](https://www.youtube.com/watch?v=zqz8fud08VM)
+
+<!-- [(Click to watch on YouTube)](https://www.youtube.com/watch?v=zqz8fud08VM) -->
+
+[![Watch BuildX Demo on YouTube](./buildx-5.gif)](https://www.youtube.com/watch?v=zqz8fud08VM)
+
 ## Getting Started
 
 ### Development
